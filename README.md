@@ -4,6 +4,6 @@
 - Parsed input as integer
 
 ## Input 2
--Created as scanner
--Found optimal way of summing numbers
--Closed scanner
+- Created as scanner
+- Found optimal way of summing numbers
+- Closed scanner
